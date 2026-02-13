@@ -26,7 +26,7 @@ This program uses the **Euclidean Algorithm**, which works as follows:
 4. Repeat the process until the remainder becomes 0.
 5. The last non-zero remainder is the GCD.
 
-This program uses the **Euclidean Algorithm**, which works as follows:
+The figure below demonstrates how to calculate the GCD using Euclidean Algorithm:
 <p align="center">
   <img src="img2.png" width="800">
 </p> 
