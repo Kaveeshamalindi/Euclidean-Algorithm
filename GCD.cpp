@@ -19,10 +19,27 @@ int gcd(int a, int b)
 //Main Function
 int main()
 {
-    int a = 30, b = 15;
+    int a, b;
+	
+	cout <<" \t GCD Calculator" <<endl;
+	cout <<"----------------------------------------" <<endl;
+	
+	cout <<" " <<endl;
+	
+	cout <<"Enter first number" <<endl;
+	cin>>a;
+	
+	cout <<" " <<endl;
+	
+	cout <<"Enter second number" <<endl;
+	cin>>b;
+	
+	cout <<" " <<endl;
+    
     int result = gcd(a, b);
     cout << "The GCD of " << a << " and " << b << " is " << result << endl;
     return 0;
 }
+
 
 
