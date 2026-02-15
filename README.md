@@ -1,6 +1,6 @@
 # 📊 GCD Calculator by using Euclidean Algorithm
 
-I implemented the Euclidean Algorithm by using the C++ programming language in command-line interface. That small program was developed by using if-else condition, which helps to easily find the Greatest Common Divisor (GCD) of two numbers.
+<p align="justify"> I implemented the Euclidean Algorithm by using the C++ programming language in command-line interface. That small program was developed by using if-else condition, which helps to easily find the Greatest Common Divisor (GCD) of two numbers. </p>
 
 ---
 
